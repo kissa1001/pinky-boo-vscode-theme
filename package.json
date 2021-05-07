@@ -1,0 +1,23 @@
+{
+    "name": "pinkyboo-theme",
+    "displayName": "PinkyBoo Theme",
+    "description": "Light text editor with light pink as primary color",
+    "icon": "images/logo.png",
+    "version": "1.0.3",
+    "publisher": "kissa1001",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PinkyBoo",
+                "uiTheme": "vs",
+                "path": "./themes/PinkyBoo-color-theme.json"
+            }
+        ]
+    }
+}
