@@ -4,6 +4,7 @@
     "description": "Light text editor with light pink as primary color",
     "icon": "images/logo.png",
     "version": "1.0.3",
+    "repository": "https://github.com/kissa1001/pinky-boo-vscode-theme",
     "publisher": "kissa1001",
     "engines": {
         "vscode": "^1.55.0"
